@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HelloAndroidUI</string>
+    <string name="hello_android_ui">Hello Android UI</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="say_hello">Say Hello</string>
+    <string name="go_to_second_screen">Go to Second Screen</string>
+    <string name="this_is_the_second_activity">This is the Second Activity</string>
+    <string name="back_to_main">Back to Main</string>
+    <string name="enter_name">Enter your name</string>
+    <string name="greet">Greet Me!</string>
+    <string name="view_features">View Android Features</string>
+    <string name="second_title">Awesome Android Features</string>
+</resources>
